@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.font30 {
+    font-size: 30px;
+}
+.space20{
+    padding-top: 20px;
+}
+.centered {
+    text-align: center;
+}
+.jumbo-main {
+  background-image: url("./assets/sunrise.jpg");
+  background-size: cover;
+  height: 200px;
+  position: relative;
+  z-index: -2;
+}
