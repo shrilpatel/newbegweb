@@ -4,8 +4,9 @@ import { Nav, Container, Jumbotron} from 'react-bootstrap';
 import {HashRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import {Mentorship} from './components/Mentorship';
 import {Resources} from './components/Resources';
-import {ProfDev} from './components/ProfDev';
+import {Employment} from './components/Employment';
 import {MobileApp} from './components/MobileApp';
+import {SignIn} from './components/SignIn';
 import {Home} from './components/Home';
 import { NavigationBar } from './components/NavigationBar';
 import { Helmet } from 'react-helmet';
@@ -30,8 +31,9 @@ class App extends Component {
          <Route path = "/" exact component = {Home} />
          <Route path = "/mentorship" exact component = {Mentorship} />
          <Route path = "/resources" exact component = {Resources} />
-         <Route path = "/profdev" exact component = {ProfDev} />
+         <Route path = "/employment" exact component = {Employment} />
          <Route path = "/mobileapp" exact component = {MobileApp} />
+         <Route path = "/signin" exact component = {SignIn} />
          
         </Router>
       </Container>

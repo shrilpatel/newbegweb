@@ -21,3 +21,12 @@ body {
   position: relative;
   z-index: -2;
 }
+
+.signin_padding{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.navbar{
+    position: sticky; 
+    top: 0; 
+}

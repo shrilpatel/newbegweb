@@ -22,8 +22,8 @@ export class Home extends Component {
                     <p> (include image of this with ahref) Studies show that mentorship is helpful...Click here to connect with some of our mentors who have had succesful careers after reentry.</p>
                     </Col>
             
-                    <Col sm = "4" className = "centered"> <h5> Professional Development</h5>
-                    <Nav.Item><Nav.Link as = {Link} to = "/profdev"><img src = {briefcase} height = {50}></img></Nav.Link></Nav.Item>
+                    <Col sm = "4" className = "centered"> <h5> Employment</h5>
+                    <Nav.Item><Nav.Link as = {Link} to = "/employment"><img src = {briefcase} height = {50}></img></Nav.Link></Nav.Item>
                     <p>(ahref image) Here you can find a cirrciulum designed to help with things like networking, touching up your resume, budgeting, etc. </p></Col>
                 
                     <Col sm = "4" className = "centered"> <h5>Resources</h5> 
