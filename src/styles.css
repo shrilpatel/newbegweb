@@ -40,3 +40,16 @@ body {
     box-shadow: 2px 2px 8px #000000;
     background-color: #FFFFFF;
 }
+
+.widepic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.centeredpink {
+    text-align: center;
+    background-color: #F5B295;
+
+}
