@@ -13,7 +13,6 @@ body {
 }
 .centered {
     text-align: center;
-    border: 3px solid green;
 }
 .jumbo-main {
   background-image: url("./assets/sunrise.jpg");
