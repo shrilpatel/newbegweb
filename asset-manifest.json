@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/newbegweb/static/css/main.f8567acc.chunk.css",
-    "main.js": "/newbegweb/static/js/main.31165c06.chunk.js",
-    "main.js.map": "/newbegweb/static/js/main.31165c06.chunk.js.map",
+    "main.css": "/newbegweb/static/css/main.5ecd8176.chunk.css",
+    "main.js": "/newbegweb/static/js/main.9d9766f9.chunk.js",
+    "main.js.map": "/newbegweb/static/js/main.9d9766f9.chunk.js.map",
     "runtime-main.js": "/newbegweb/static/js/runtime-main.1f37b48d.js",
     "runtime-main.js.map": "/newbegweb/static/js/runtime-main.1f37b48d.js.map",
-    "static/css/2.40e75aa4.chunk.css": "/newbegweb/static/css/2.40e75aa4.chunk.css",
-    "static/js/2.89eb926e.chunk.js": "/newbegweb/static/js/2.89eb926e.chunk.js",
-    "static/js/2.89eb926e.chunk.js.map": "/newbegweb/static/js/2.89eb926e.chunk.js.map",
+    "static/css/2.573168d3.chunk.css": "/newbegweb/static/css/2.573168d3.chunk.css",
+    "static/js/2.396492aa.chunk.js": "/newbegweb/static/js/2.396492aa.chunk.js",
+    "static/js/2.396492aa.chunk.js.map": "/newbegweb/static/js/2.396492aa.chunk.js.map",
     "index.html": "/newbegweb/index.html",
-    "precache-manifest.9ef34b58585263a27b0f0a9843ee7c0c.js": "/newbegweb/precache-manifest.9ef34b58585263a27b0f0a9843ee7c0c.js",
+    "precache-manifest.2d18764dfa1d3dce207e4fdd9792616b.js": "/newbegweb/precache-manifest.2d18764dfa1d3dce207e4fdd9792616b.js",
     "service-worker.js": "/newbegweb/service-worker.js",
-    "static/css/2.40e75aa4.chunk.css.map": "/newbegweb/static/css/2.40e75aa4.chunk.css.map",
-    "static/css/main.f8567acc.chunk.css.map": "/newbegweb/static/css/main.f8567acc.chunk.css.map",
-    "static/js/2.89eb926e.chunk.js.LICENSE.txt": "/newbegweb/static/js/2.89eb926e.chunk.js.LICENSE.txt",
+    "static/css/2.573168d3.chunk.css.map": "/newbegweb/static/css/2.573168d3.chunk.css.map",
+    "static/css/main.5ecd8176.chunk.css.map": "/newbegweb/static/css/main.5ecd8176.chunk.css.map",
+    "static/js/2.396492aa.chunk.js.LICENSE.txt": "/newbegweb/static/js/2.396492aa.chunk.js.LICENSE.txt",
+    "static/media/StockMentorship.jpg": "/newbegweb/static/media/StockMentorship.bc432ef9.jpg",
     "static/media/logo.png": "/newbegweb/static/media/logo.4a721677.png",
     "static/media/styles.css": "/newbegweb/static/media/sunrise.e8e80fa3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f37b48d.js",
-    "static/css/2.40e75aa4.chunk.css",
-    "static/js/2.89eb926e.chunk.js",
-    "static/css/main.f8567acc.chunk.css",
-    "static/js/main.31165c06.chunk.js"
+    "static/css/2.573168d3.chunk.css",
+    "static/js/2.396492aa.chunk.js",
+    "static/css/main.5ecd8176.chunk.css",
+    "static/js/main.9d9766f9.chunk.js"
   ]
 }
