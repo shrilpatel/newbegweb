@@ -4,7 +4,7 @@ import {Link, HashRouter as Router} from "react-router-dom";
 import "../styles.css";
 export const NavigationBar = () => (
 
-  <Navbar expand = "lg">
+  <Navbar expand = "lg" >
   <Navbar.Brand></Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav">
 
