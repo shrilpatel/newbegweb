@@ -13,11 +13,13 @@ body {
 }
 .centered {
     text-align: center;
+    border: 3px solid green;
 }
 .jumbo-main {
   background-image: url("./assets/sunrise.jpg");
   background-size: cover;
-  height: 200px;
+  width: 100%;
+  height: 180px;
   position: relative;
   z-index: -2;
 }
@@ -27,22 +29,14 @@ body {
     padding-left: 200px;
 }
 .navbar{
-    position: sticky; 
-    top: 0; 
-    box-shadow: 0 4px 2px -2px rgba(0,0,0,.2);
-    background-color: white;
-    z-index:3;
-}
-
-.widepic{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    z-index: 999;
+    transform: translateY(-50%);
+    top:30px;
     width: 100%;
-}
-
-.centeredpink {
-    text-align: center;
-    background-color: #F5B295;
-
+    font-size: 32px;
+    box-shadow: 2px 2px 8px #000000;
+    background-color: #FFFFFF;
 }
