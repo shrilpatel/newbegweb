@@ -11,7 +11,11 @@ export const NavigationBar = () => (
   </Navbar.Toggle>
   <Navbar.Collapse id="basic-navbar-nav" >
 
+<<<<<<< HEAD
     <Nav class="navbar-nav nav-fill w-100" >
+=======
+    <Nav className="navbar-nav nav-fill w-100 " >
+>>>>>>> a3e2b8074f61955e841c8f9604fb0d898c58a344
      <Router>
       
       <Nav.Item><Nav.Link as = {Link} to = "/"><h5>Home</h5></Nav.Link></Nav.Item>
