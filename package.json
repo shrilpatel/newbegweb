@@ -8,31 +8,15 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-<<<<<<< HEAD
     "bootstrap": "^4.6.0",
-=======
-    "axios": "^0.21.1",
-    "concurrently": "^6.0.1",
-    "express": "^4.17.1",
-    "material-ui": "^1.0.0-beta.47",
-    "mongoose": "^5.12.3",
-    "morgan": "^1.10.0",
->>>>>>> a3e2b8074f61955e841c8f9604fb0d898c58a344
     "react": "^16.13.1",
     "react-bootstrap": "^1.5.2",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-<<<<<<< HEAD
     "react-scripts": "3.4.3",
     "react-table": "^7.6.3",
-=======
-    "react-scripts": "^4.0.3",
-    "react-table": "^7.6.3",
-    "react-table-6": "^6.11.0",
-    "realm": "^10.3.0",
->>>>>>> a3e2b8074f61955e841c8f9604fb0d898c58a344
     "realm-web": "^1.2.1"
   },
   "scripts": {
